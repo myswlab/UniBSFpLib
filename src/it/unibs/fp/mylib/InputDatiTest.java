@@ -10,7 +10,5 @@ public class InputDatiTest {
         char lettura = InputDati.leggiChar(a);
 
         System.out.println("hai scritto: " + lettura);
-
-
     }
 }

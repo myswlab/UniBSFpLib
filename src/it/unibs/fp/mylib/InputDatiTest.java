@@ -11,6 +11,5 @@ public class InputDatiTest {
 
         System.out.println("hai scritto: " + lettura);
 
-
     }
 }
